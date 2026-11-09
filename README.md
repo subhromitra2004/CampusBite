@@ -34,8 +34,8 @@ Built as a production-oriented MERN challenge, the project demonstrates:
 
 | | |
 |---|---|
-| **Frontend + Backend** | [https://messmate-18cs.onrender.com/](https://messmate-18cs.onrender.com/) |
-| **Repository** | [https://github.com/Abi04nash/MessMate](https://github.com/Abi04nash/MessMate) |
+| **Frontend + Backend** | [https://github.com/subhromitra2004/CampusBite](https://github.com/subhromitra2004/CampusBite) |
+| **Repository** | [https://github.com/subhromitra2004/CampusBite](https://github.com/subhromitra2004/CampusBite) |
 
 ### Demo Credentials
 
