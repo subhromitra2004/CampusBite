@@ -4,7 +4,7 @@
 > Students, Mess Committees, Admins, and Kitchen Staff — all connected through one real-time, role-based platform backed by MongoDB.
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-messmate--18cs.onrender.com-success?style=for-the-badge)](https://messmate-18cs.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Abi04nash%2FMessMate-black?style=for-the-badge&logo=github)](https://github.com/Abi04nash/MessMate)
+
 [![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react)](https://react.dev/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb)](https://www.mongodb.com/atlas)
