@@ -4,12 +4,26 @@
 > Students, Mess Committees, Admins, and Kitchen Staff — all connected through one real-time, role-based platform backed by MongoDB.
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-CampusBite--5pfk.onrender.com-success?style=for-the-badge)](https://campusbite-5pfk.onrender.com/)
-
 [![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react)](https://react.dev/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb)](https://www.mongodb.com/atlas)
 [![Express](https://img.shields.io/badge/Express-4.21-000000?style=flat-square&logo=express)](https://expressjs.com/)
 [![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-2.5-764ABC?style=flat-square&logo=redux)](https://redux-toolkit.js.org/)
+
+---
+
+## 📑 Table of Contents
+- [About the Project](#-about-the-project)
+- [Live Demo](#-live-demo)
+- [Core Features](#-core-features)
+- [Dual Mess System](#-dual-mess-system)
+- [Tech Stack](#-tech-stack)
+- [System Architecture](#-system-architecture)
+- [Sneak Peek (UI/UX)](#-sneak-peek-uiux)
+- [Quick Start & Local Development](#️-quick-start--local-development)
+- [Environment Variables](#-environment-variables)
+- [Project Structure](#-project-structure)
+- [Support & Administration](#-support--administration)
 
 ---
 
@@ -91,10 +105,10 @@ Built as a production-oriented MERN challenge, the project demonstrates:
 
 CampusBite supports **two parallel mess systems** running on the same menu:
 
-| Feature | 1st Floor Mess | Ground Floor Mess |
+| Feature | 1st Floor Mess (Swain Catters) | Ground Floor Mess (IRCTC) |
 |---|---|---|
-| **Payment model** | Pay per meal | One-time semester fee (₹25,000 default) |
-| **Registration** | Daily, before cutoff | Enrolled once for the entire semester |
+| **Payment model** | Pay per meal | One-time semester fee (₹17,000 security deposit) |
+| **Registration** | Daily, before cutoff | Enrolled once via .docx forms |
 | **Meal selection** | Any meal, any day | **Minimum 3 out of 4 meals** (breakfast/lunch/snacks/dinner) |
 | **Attendance** | QR or manual check-in | Staff marks present from the semester roster |
 | **Billing** | Monthly running bill | Prepaid; no per-meal billing |
