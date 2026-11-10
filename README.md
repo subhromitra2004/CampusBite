@@ -41,7 +41,7 @@
 |---|---|
 | 🏷️ **Project Title** | CampusBite — Smarter Meals. Better Campus Living. |
 | 👩‍🏫 **Submitted To** | **Prof. Bharati Mishra** |
-| 👨‍🎓 **Submitted By** | **Subhro** |
+| 👨‍🎓 **Submitted By** | **Subhro Mitra** |
 | 🆔 **Roll Number** | `B423066` |
 | 🏫 **Institute** | International Institute of Information Technology (IIIT), Bhubaneswar |
 | 🏛️ **Programme** | B.Tech (Final Year) — `Information technology` |
