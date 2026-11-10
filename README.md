@@ -82,7 +82,7 @@ Built as a production-oriented MERN challenge, the project demonstrates:
 
 | | |
 |---|---|
-| **Frontend + Backend** | [https://github.com/subhromitra2004/CampusBite](https://github.com/subhromitra2004/CampusBite) |
+| **Frontend + Backend** | [https://github.com/subhromitra2004/CampusBite](https://campusbite-5pfk.onrender.com/) |
 | **Repository** | [https://github.com/subhromitra2004/CampusBite](https://github.com/subhromitra2004/CampusBite) |
 
 ### Demo Credentials
