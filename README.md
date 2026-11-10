@@ -42,12 +42,12 @@
 | 🏷️ **Project Title** | CampusBite — Smarter Meals. Better Campus Living. |
 | 👩‍🏫 **Submitted To** | **Prof. Bharati Mishra** |
 | 👨‍🎓 **Submitted By** | **Subhro** |
-| 🆔 **Roll Number** | `[Add roll number]` |
+| 🆔 **Roll Number** | `B423066` |
 | 🏫 **Institute** | International Institute of Information Technology (IIIT), Bhubaneswar |
-| 🏛️ **Programme** | B.Tech (Final Year) — `[Add branch / department]` |
-| 📚 **Course / Subject** | `[Add course name and code]` |
-| 📅 **Academic Session** | `[Add session, e.g. 2025–26]` |
-| 🗓️ **Date of Submission** | `[Add date]` |
+| 🏛️ **Programme** | B.Tech (Final Year) — `Information technology` |
+| 📚 **Course / Subject** | `Internet and Web Technology (IWT)` |
+| 📅 **Academic Session** | `2026-2027` |
+| 🗓️ **Date of Submission** | `10'th November 2026 ` |
 | 🧩 **Project Type** | Full-stack web application (MERN) with real-time features |
 | 🌐 **Live Application** | [campusbite-5pfk.onrender.com](https://campusbite-5pfk.onrender.com/) |
 | 💻 **Source Code** | [github.com/subhromitra2004/CampusBite](https://github.com/subhromitra2004/CampusBite) |
